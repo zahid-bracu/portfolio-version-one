@@ -1,0 +1,40 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.header{
+    background-image: url('./img/top-banner.png');
+    background-repeat: no-repeat;
+}
+.para{
+    max-width: 700px;
+    text-align: justify;
+}
+
+.param{
+    max-width: 400px;
+    text-align: justify;
+}
+
+img{
+    width: 80%;
+}
+ .dream-bg{
+     background-image: url('./img/dream-bg.png');
+     background-repeat: no-repeat;
+     background-position: right;
+ }
+
+ .exp{
+     background-image: url('./img/exp-bg.png');
+     background-position: left;
+     background-repeat: no-repeat;
+ }
+
+ .box{
+     margin:10%;
+     box-shadow: 1px 1px 15px rgb(121, 121, 121);
+     min-height:350px;
+     padding:30px;
+     
+ }
