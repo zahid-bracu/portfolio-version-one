@@ -5,36 +5,67 @@
 .header{
     background-image: url('./img/top-banner.png');
     background-repeat: no-repeat;
+    background-size: 80%;
 }
 .para{
-    max-width: 700px;
+    max-width: 450px;
     text-align: justify;
+    font-weight: 500;
+}
+
+.main-title{
+    width: 80%;
+    max-width: 400px;
 }
 
 .param{
     max-width: 400px;
     text-align: justify;
+    font-weight: 500;
 }
 
 img{
-    width: 80%;
+    width: 90%;
+    max-width: 450px;
 }
  .dream-bg{
+      
      background-image: url('./img/dream-bg.png');
      background-repeat: no-repeat;
      background-position: right;
+      
  }
 
  .exp{
+     /* border: 1px solid black;
+     width: 100%;
+     margin: 0px;
      background-image: url('./img/exp-bg.png');
-     background-position: left;
-     background-repeat: no-repeat;
+     background-position: right;
+    
+     background-repeat: no-repeat; */
  }
 
  .box{
      margin:10%;
-     box-shadow: 1px 1px 15px rgb(121, 121, 121);
+     width: 90%;
+     max-width: 500px;
+     box-shadow: 1px 1px 15px rgb(180, 180, 180);
      min-height:350px;
      padding:30px;
-     
+     border-radius: 20px;
  }
+
+ .footer{
+     font-weight: 500;
+ }
+
+ .container{
+     border: 0px solid rgb(128, 29, 29);
+     width:90% !important;
+     max-width: 900px !important;
+      
+     margin: 0px auto;
+ }
+
+ 

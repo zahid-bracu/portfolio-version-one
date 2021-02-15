@@ -68,8 +68,9 @@ button:hover{
 }
  .exp{
      margin-top:50px;
-     display: flex;
-     background-image:url('./img/exp-bg.png') ;
+      
+     /* display: flex; */
+     /* background-image:url('./img/exp-bg.png') ; */
      background-repeat: no-repeat;
      background-position:left ;
  }
